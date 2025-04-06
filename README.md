@@ -1,5 +1,5 @@
 # oct-conditionaldiffusion-pytorch
-Code for the paper "Diffusion model data augmentation for enhancing OCT retinal and choroidal segmentation" using conditional diffusion models (cDDPMs) synthesing OCT patches to provide enhanced data augmentation for patch-based segmentation methods. Leverages unlabelled data through joint training in addition to other new training techniques.
+Code for the paper "Diffusion model data augmentation for enhancing OCT retinal and choroidal segmentation" using conditional diffusion models (cDDPMs) synthesising OCT patches to provide enhanced data augmentation for patch-based segmentation methods. Leverages unlabelled data through joint training in addition to other new training techniques.
 
 We use a conditional denoising diffusion probabilistic model (cDDPM), a type of diffusion model, to synthesise OCT image
 patches of a number of classes, that can be added to the training dataset to enhance performance through data augmentation.
