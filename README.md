@@ -9,6 +9,7 @@ Paper link: currently under review
 If the code and methods here are useful to you and aided in your research, please consider citing the papers above.
 
 **Code**
+
 We build upon the code at https://github.com/TeaPearce/Conditional_Diffusion_MNIST/ adding the following:
 - code modularisation
 - network flexibility
